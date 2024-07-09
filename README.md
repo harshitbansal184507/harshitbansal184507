@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=1726099200&v=beta&t=TJEy8JDe4t_P4jI0C4aG5wLLWNMUB3ZXdlSskZO0lvQ" width="500" height="500" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=1726099200&v=beta&t=TJEy8JDe4t_P4jI0C4aG5wLLWNMUB3ZXdlSskZO0lvQ" width="500" height="300" />
 </div>
 <!--
 **harshitbansal184507/harshitbansal184507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
