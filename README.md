@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://dribbble.com/shots/1907765-Hands-Typing-WIP?utm_source=Clipboard_Shot&utm_campaign=AllenLaseter&utm_content=Hands%20Typing%20WIP&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=AllenLaseter&utm_content=Hands%20Typing%20WIP&utm_medium=Social_Share" width="100"/>
+  <img src="https://images.app.goo.gl/Jn7E6dAb535ssvDw5" width="100"/>
 </div>
 <!--
 **harshitbansal184507/harshitbansal184507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
