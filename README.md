@@ -5,6 +5,7 @@ My name is Harshit Bansal and i am a python developer and a machine learning ent
 </div>
 <!--
 **harshitbansal184507/harshitbansal184507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitbansal184507)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
