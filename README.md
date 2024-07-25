@@ -3,7 +3,7 @@ My name is Harshit Bansal and i am a python developer and a machine learning ent
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTB6dDN4YmJnN2txbXJvN3I2dnVjcmRvYmMxdGNwMWZrc2UxaGl2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.webp" width="500" height="300" />
 </div>
-[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitbansal184507)](https://github.com/harshitbansal184507/github-readme-stats)
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=)harshitbansal184507](https://github.com/harshitbansal184507/github-readme-stats)
 <!--
 **harshitbansal184507/harshitbansal184507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
