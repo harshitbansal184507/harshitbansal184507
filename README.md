@@ -29,9 +29,5 @@
 <a href="https://jinja.palletsprojects.com/en/3.1.x/" target="_blank" rel="noreferrer"> <img src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" alt="Jinja" width="40" height="40"/> </a> </p>
 
 
-![harshitbansal184507's Stats](https://github-readme-stats.vercel.app/api?username=harshitbansal184507&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
-![harshitbansal184507's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitbansal184507&theme=onedark&hide_border=false)
-
-![harshitbansal184507's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansal184507&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
