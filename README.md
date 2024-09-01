@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbansal184507&show_icons=true&locale=en&layout=compact" alt="harshitbansal184507" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitbansal184507&show_icons=true&locale=en" alt="harshitbansal184507" /></p>
+![harshitbansal184507's Stats](https://github-readme-stats.vercel.app/api?username=harshitbansal184507&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
