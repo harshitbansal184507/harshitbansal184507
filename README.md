@@ -30,3 +30,5 @@
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://opensource.muenchen.de/logo/langchain.jpg" alt="Jinja" width="40" height="40"/> </a> </p>
 
 [![Harshit's's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitbansal184507)](https://github.com/harshitbansal184507/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansal184507&layout=compact)](https://github.com/harshitbansal184507/github-readme-stats)
+
