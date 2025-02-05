@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **various Machine Learning Projects .**  
 
-- 🌱 I’m currently learning **Tensorflow and Keras .**
+- 🌱 I’m currently learning MERN Stack .
 
 - 💬 Ask me about **Scikit-learn , Numpy , Pandas , Data Visualisation etc.**
 
