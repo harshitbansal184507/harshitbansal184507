@@ -29,7 +29,7 @@
 <a href="https://jinja.palletsprojects.com/en/3.1.x/" target="_blank" rel="noreferrer"> <img src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" alt="Jinja" width="40" height="40"/> </a> </p>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://opensource.muenchen.de/logo/langchain.jpg" alt="Jinja" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Jinja" width="40" height="40"/> </a> 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
