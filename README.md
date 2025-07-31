@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/realharshitban" target="blank"><img src="https://img.shields.io/twitter/follow/realharshitban?logo=twitter&style=for-the-badge" alt="realharshitban" /></a> </p>
 
-- 🔭 I’m currently working on **various Machine Learning Projects .**  
 
 - 🌱 I’m currently learning MERN Stack .
 
