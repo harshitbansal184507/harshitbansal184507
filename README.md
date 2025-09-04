@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
-<h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast and Python Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitbansal184507&label=Profile%20views&color=0e75b6&style=flat" alt="harshitbansal184507" /> </p>
 
 <p align="left"> <a href="https://twitter.com/realharshitban" target="blank"><img src="https://img.shields.io/twitter/follow/realharshitban?logo=twitter&style=for-the-badge" alt="realharshitban" /></a> </p>
 
 
-- 🌱 I’m currently learning MERN Stack .
+- 🌱 I’m currently learning React .
 
 - 💬 Ask me about **Scikit-learn , Numpy , Pandas , Data Visualisation etc.**
 - My Portfolio - https://portfolio-harshitbansal.vercel.app/
