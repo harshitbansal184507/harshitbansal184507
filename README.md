@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/realharshitban" target="blank"><img src="https://img.shields.io/twitter/follow/realharshitban?logo=twitter&style=for-the-badge" alt="realharshitban" /></a> </p>
 
 
-- 🌱 I’m currently learning about AI Agents (Langchain & LangGraph) .
+- 🌱 I’m currently learning about AI Agents (Langchain & LangGraph) and Backend Developement using Go . 
 - My Portfolio - https://portfolio-harshitbansal.vercel.app/
 - 📫 How to reach me **harshitbansal184507@gmail.com**
 
