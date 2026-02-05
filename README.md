@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast and Python Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitbansal184507&label=Profile%20views&color=0e75b6&style=flat" alt="harshitbansal184507" /> </p>
 
