@@ -11,6 +11,6 @@
 
 
 <img 
-  src="https://streak-stats.demolab.com?userharshitbansal184507" 
+  src="https://streak-stats.demolab.com?user=harshitbansal184507" 
   alt="GitHub Streak"
 />
