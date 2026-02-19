@@ -10,3 +10,7 @@
 - 📫 How to reach me **harshitbansal184507@gmail.com**
 
 
+<img 
+  src="https://streak-stats.demolab.com?userharshitbansal184507" 
+  alt="GitHub Streak"
+/>
