@@ -20,9 +20,7 @@
 ## 🏷 Status Legend
 - ✅ **Merged** — Successfully accepted
 - 🔍 **Under Review** — Awaiting maintainer feedback
-## 🏷 Status Legend
-- ✅ **Merged** — Successfully accepted and merged
-- 🔍 **Under Review** — Awaiting maintainer review
+
 <img 
   src="https://streak-stats.demolab.com?user=harshitbansal184507" 
   alt="GitHub Streak"
