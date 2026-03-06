@@ -13,10 +13,13 @@
 
 | Project | Contribution | PR | Status |
 |--------|-------------|----|--------|
-| Swiggy Analytics | Enhanced `fetch_orders` with retry mechanism | #17 | ✅ Merged |
-| Hermeto | Added missing GOPROXY to `generate-env` docs example | #1359 | ✅ Merged |
-| Hermeto | Convert gomod module to subpackage | #1358 | 🔍 Under Review |
+| [Swiggy Analytics](https://github.com/mr-karan/swiggy-analytics) | Enhanced `fetch_orders` with retry mechanism | [#17](https://github.com/mr-karan/swiggy-analytics/pull/17) | ✅ Merged |
+| [Hermeto](https://github.com/hermetoproject/hermeto) | Added missing GOPROXY to `generate-env` docs example | [#1359](https://github.com/hermetoproject/hermeto/pull/1359) | ✅ Merged |
+| [Hermeto](https://github.com/hermetoproject/hermeto) | Convert gomod module to subpackage | [#1358](https://github.com/hermetoproject/hermeto/pull/1358) | 🔍 Under Review |
 
+## 🏷 Status Legend
+- ✅ **Merged** — Successfully accepted
+- 🔍 **Under Review** — Awaiting maintainer feedback
 ## 🏷 Status Legend
 - ✅ **Merged** — Successfully accepted and merged
 - 🔍 **Under Review** — Awaiting maintainer review
