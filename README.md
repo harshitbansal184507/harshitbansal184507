@@ -17,9 +17,6 @@
 | [Hermeto](https://github.com/hermetoproject/hermeto) | Added missing GOPROXY to `generate-env` docs example | [#1359](https://github.com/hermetoproject/hermeto/pull/1359) | ✅ Merged |
 | [Hermeto](https://github.com/hermetoproject/hermeto) | Convert gomod module to subpackage | [#1358](https://github.com/hermetoproject/hermeto/pull/1358) | 🔍 Under Review |
 
-## 🏷 Status Legend
-- ✅ **Merged** — Successfully accepted
-- 🔍 **Under Review** — Awaiting maintainer feedback
 
 <img 
   src="https://streak-stats.demolab.com?user=harshitbansal184507" 
