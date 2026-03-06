@@ -9,7 +9,17 @@
 - My Portfolio - https://portfolio-harshitbansal.vercel.app/
 - 📫 How to reach me **harshitbansal184507@gmail.com**
 
+## 📌 Open Source Contributions
 
+| Project | Contribution | PR | Status |
+|--------|-------------|----|--------|
+| Swiggy Analytics | Enhanced `fetch_orders` with retry mechanism | #17 | ✅ Merged |
+| Hermeto | Added missing GOPROXY to `generate-env` docs example | #1359 | ✅ Merged |
+| Hermeto | Convert gomod module to subpackage | #1358 | 🔍 Under Review |
+
+## 🏷 Status Legend
+- ✅ **Merged** — Successfully accepted and merged
+- 🔍 **Under Review** — Awaiting maintainer review
 <img 
   src="https://streak-stats.demolab.com?user=harshitbansal184507" 
   alt="GitHub Streak"
