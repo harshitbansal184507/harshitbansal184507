@@ -15,7 +15,7 @@
 |--------|-------------|----|--------|
 | [Swiggy Analytics](https://github.com/mr-karan/swiggy-analytics) | Enhanced `fetch_orders` with retry mechanism | [#17](https://github.com/mr-karan/swiggy-analytics/pull/17) | ✅ Merged |
 | [Hermeto](https://github.com/hermetoproject/hermeto) | Added missing GOPROXY to `generate-env` docs example | [#1359](https://github.com/hermetoproject/hermeto/pull/1359) | ✅ Merged |
-| [Hermeto](https://github.com/hermetoproject/hermeto) | Convert gomod module to subpackage | [#1358](https://github.com/hermetoproject/hermeto/pull/1358) | 🔍 Under Review |
+| [Hermeto](https://github.com/hermetoproject/hermeto) | Convert gomod module to subpackage | [#1358](https://github.com/hermetoproject/hermeto/pull/1358) | ✅ Approved |
 | [Hermeto](https://github.com/hermetoproject/hermeto) |fix: improve error messages in pip requirements | [#1418](https://github.com/hermetoproject/hermeto/pull/1418) | 🔍 Under Review |
 
 
